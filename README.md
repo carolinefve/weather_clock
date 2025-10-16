@@ -42,7 +42,8 @@ Install the following libraries:
 
 ## 👀 Demo
 
-
+<video src="https://github.com/user-attachments/assets/99518187-3611-4071-9f31-98ded9c18be0" controls="controls" style="width: 500px;">
+</video>
 
 
 ## 🎯 Features
