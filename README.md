@@ -42,7 +42,7 @@ Install the following libraries:
 
 ## 👀 Demo
 
-<video src="https://github.com/user-attachments/assets/99518187-3611-4071-9f31-98ded9c18be0" controls="controls" style="width: 500px;">
+<video src="https://github.com/user-attachments/assets/f079cb47-1d85-4928-9f8b-fdee0c8efca3" controls="controls" style="width: 500px;">
 </video>
 
 
