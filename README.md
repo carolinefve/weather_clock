@@ -1,5 +1,5 @@
 # ⏰ Weather Clock Display
-A real-time weather display system that shows current weather conditions, temperature and time for the 5 most famous cities around the world. Built with ESP32 and a TFT display, the system features button-controlled city switching and automatic weather updates with dynamic weather icons.
+A real-time weather display system that shows current weather conditions, temperature and time for the 5 most famous cities around the world. Built with ESP32, a TFT display and the OpenWeather API, the system features button-controlled city switching and automatic weather updates with dynamic weather icons.
 
 ## ⚙️ Installation & Usage
 
